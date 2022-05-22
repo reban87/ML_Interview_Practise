@@ -1,7 +1,7 @@
 # ML_Interview_Practise
 DSA Preparation
 
-![Image](https://github.com/reban87/ML_Interview_Practise/blob/main/images/dsa.png)
+![Image](https://github.com/reban87/ML_Interview_Practise/blob/main/images/interview.jpg)
 
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
