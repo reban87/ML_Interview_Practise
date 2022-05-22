@@ -13,4 +13,4 @@
 **EASY QUESTIONS**
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
-| 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Two%20Sum.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/2Sum.PNG) |
+| 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/two_sum.JPG)
