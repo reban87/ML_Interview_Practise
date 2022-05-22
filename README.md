@@ -1,5 +1,4 @@
 # **ML Interview Practise**
-DSA Interview Preparation
 
 ![Image](https://github.com/reban87/ML_Interview_Practise/blob/main/images/interview.jpg)
 
