@@ -1,5 +1,5 @@
 # ML_Interview_Practise
-DSA Preparation
+DSA Interview Preparation
 
 ![Image](https://github.com/reban87/ML_Interview_Practise/blob/main/images/interview.jpg)
 
