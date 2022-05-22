@@ -14,3 +14,4 @@
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
 | 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/two_sum.JPG)
+| 2. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/palilndrome_num.JPG)
