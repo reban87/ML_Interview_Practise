@@ -17,3 +17,4 @@
 | 2. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/palilndrome_num.JPG)
 | 3. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/roman_to_Integer.png)
 | 4. [Common Longest Prefix](https://leetcode.com/problems/longest-common-prefix/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/Longest%20Common%20Prefix.png)
+| 5. [Remove Duplicate from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/Remove%20Duplicate%20from%20sorted%20array.png)
