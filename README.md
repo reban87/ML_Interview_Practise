@@ -19,3 +19,4 @@
 | 4. [Common Longest Prefix](https://leetcode.com/problems/longest-common-prefix/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/Longest%20Common%20Prefix.png)
 | 5. [Remove Duplicate from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/Remove%20Duplicate%20from%20sorted%20array.png)
 | 6. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/implement%20strStr().png)
+| 7. [plusOne](https://leetcode.com/problems/plus-one/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/plusOne.png)
