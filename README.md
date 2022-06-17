@@ -21,3 +21,4 @@
 | 6. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/implement%20strStr().png)
 | 7. [plusOne](https://leetcode.com/problems/plus-one/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/plusOne.png)
 | 8. [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/remove_duplicate%20from%20sorted%20list.png)
+| 9. [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/contains%20duplicate.png)
