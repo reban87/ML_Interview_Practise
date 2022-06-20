@@ -24,3 +24,4 @@
 | 9. [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/contains%20duplicate.png)
 | 10. [Remove Elements](https://leetcode.com/problems/remove-element/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/Remove%20Element.png)
 | 11. [Word Pattern](https://leetcode.com/problems/word-pattern/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/word%20pattern.png)
+| 12. [Reverse String](https://leetcode.com/problems/reverse-string/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/Reverse%20String.png)
