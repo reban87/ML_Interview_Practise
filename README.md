@@ -25,3 +25,10 @@
 | 10. [Remove Elements](https://leetcode.com/problems/remove-element/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/Remove%20Element.png)
 | 11. [Word Pattern](https://leetcode.com/problems/word-pattern/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/word%20pattern.png)
 | 12. [Reverse String](https://leetcode.com/problems/reverse-string/)| ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/Reverse%20String.png)
+
+
+
+**MEDIUM QUESTIONS**
+| Name of Question | Status of Completion | Solution |
+| ----- | -----| ----- |
+| 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/add-two-numbers.png)
