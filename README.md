@@ -32,3 +32,4 @@
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
 | 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/add-two-numbers.png)
+| 2. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ✅ | [Python](https://github.com/reban87/ML_Interview_Practise/blob/main/images/First%20and%20Last%20position%20of%20Element%20in%20Sorted%20Array.png)
