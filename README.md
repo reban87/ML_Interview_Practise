@@ -9,6 +9,7 @@
 
 📚**BOOKS**
 
+
 - **Data Structures & Algorithms in Python** -*Michael T. Goodrich*
 - **Deep Learning Interviews** -*Shlomo Kashani*
 
